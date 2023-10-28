@@ -1,0 +1,57 @@
+{
+    "AAPL": {
+      "name": "Apple Inc.",
+      "data": [
+        { "time": "2023-10-26","open": 100, "high": 155.00, "low": 149.75, "close": 150.25, "volume": 10000 }
+      ]
+    },
+    "GOOG": {
+      "name": "Google",
+      "data": [
+        { "time": "2023-10-27","open": 110, "high": 2850.00, "low": 2795.25, "close": 2800.50, "volume": 9000 }
+      ]
+    },
+    "AMZN": {
+      "name": "Amazon.com Inc.",
+      "data": [
+        { "time": "2023-10-20","open": 110, "high": 3450.00, "low": 3395.25, "close": 3400.75, "volume": 7500 }
+      ]
+    },
+    "MSFT": {
+      "name": "Microsoft Corporation",
+      "data": [
+        { "time": "2023-10-21","open": 120, "high": 315.00, "low": 308.75, "close": 310.20, "volume": 8500 }
+      ]
+    },
+    "TSLA": {
+      "name": "Tesla, Inc.",
+      "data": [
+        { "time": "2023-10-25","open": 130, "high": 760.00, "low": 744.50, "close": 750.60, "volume": 6800 }
+      ]
+    },
+    "FB": {
+      "name": "Meta Platforms, Inc.",
+      "data": [
+        { "time": "2023-10-26","open": 140, "high": 330.00, "low": 322.75, "close": 325.40, "volume": 6200 }
+      ]
+    },
+    "NFLX": {
+      "name": "Netflix, Inc.",
+      "data": [
+        { "time": "2023-10-24","open": 160, "high": 548.00, "low": 537.25, "close": 540.30, "volume": 5700 }
+      ]
+    },
+    "NVDA": {
+      "name": "NVIDIA Corporation",
+      "data": [
+        { "time": "2023-10-25","open": 180, "high": 280.00, "low": 273.75, "close": 275.10, "volume": 4900 }
+      ]
+    },
+    "AAP": {
+      "name": "Advanced Auto Parts, Inc.",
+      "data": [
+        { "time": "2023-10-27","open": 170, "high": 175.00, "low": 169.75, "close": 170.80, "volume": 4100 }
+      ]
+    }
+  }
+  
