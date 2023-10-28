@@ -7,7 +7,6 @@
 </template>
 
 <script>
-  window.location.href = 'https://price-of-stock.netlify.app/price';
 export default {
   name: "App",
 
