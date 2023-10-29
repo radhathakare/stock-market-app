@@ -1,6 +1,6 @@
 # Stock Market Website
 Link - https://price-of-stock.netlify.app/
-
+https://price-of-stock.netlify.app/price
 ### Tech Stack
 * NodeJS
 * Express
