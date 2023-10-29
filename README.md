@@ -28,7 +28,4 @@ URL: [http://localhost:8888/getAll?page=2  ](https://stock-data-a9sg.onrender.co
 URL:[ http://localhost:8888/search?q=major](https://stock-data-a9sg.onrender.com/api/search?symbol=symbol&period=1D)https://stock-data-a9sg.onrender.com/api/search?symbol=symbol&period=1D
  ex https://stock-data-a9sg.onrender.com/api/search?symbol=AAPL&period=1D
 
-### Video
-
-[View Video on Imgur](https://imgur.com/a/9VWRigB)
 
