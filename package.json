@@ -17,6 +17,6 @@
     "fs": "^0.0.1-security"
   },
   "devDependencies": {
-    "@vue/cli": "^5.0.8"
+   
   }
 }
