@@ -51,7 +51,7 @@ export default {
   },
   methods: {
     fetchStockData() {
-      const apiUrl = `http://localhost:3000/api/search?symbol=${this.selectedSymbol}&period=${this.selectedInterval}`;
+      const apiUrl = `https://stock-data-a9sg.onrender.com/api/search?symbol=${this.selectedSymbol}&period=${this.selectedInterval}`;
 
       axios
         .get(apiUrl)

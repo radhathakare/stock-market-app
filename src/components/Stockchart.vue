@@ -46,7 +46,7 @@ export default {
   },
   methods: {
     fetchStockData() {
-      axios.get('http://localhost:3000/api/stocks')
+      axios.get('https://stock-data-a9sg.onrender.com/api/stocks')
         .then((response) => {
           this.stocks = response.data;
           
