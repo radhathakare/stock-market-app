@@ -6,7 +6,7 @@
           
           <div class="d-flex justify-content-center mt-4">
           
-          <a href="http://localhost:8080/price" style="text-decoration: none;">
+          <a href="https://price-of-stock.netlify.app/price" style="text-decoration: none;">
           <button class="btn-price">
           Check Stock Prices
           </button></a>

@@ -29,7 +29,7 @@
           <ul class="navbar-nav">
           <li class="nav-item">
               
-              <a class="nav-link active text-white ml-4 mr-4" aria-current="page" href="http://localhost:8080/price">   
+              <a class="nav-link active text-white ml-4 mr-4" aria-current="page" href="https://price-of-stock.netlify.app/price">   
                 Prices</a>
             </li>
           <li class="nav-item dropdown">
