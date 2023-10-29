@@ -2,7 +2,7 @@
   <div>
     <nav class="navbar navbar-expand-lg fixed-top">
       <div class="container">
-      <a href="http://localhost:8080">
+      <a href="https://price-of-stock.netlify.app">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQhAyUO4U0f2uY5t5KlFm_G5nkjdzffr5WZg&usqp=CAU" width="80" height="45">
         
         </a>

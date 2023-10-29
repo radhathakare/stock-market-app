@@ -109,19 +109,40 @@ export default {
   }
   .chart-container {
     padding: 10px;
+    display:block;
+   margin-left:30px;
+   margin-right: 30px;
+    max-width:50%;
+   
   }
   .chartContainer{
-    padding:20px 0 40px 10px;
+   
+   
+    width: 330px;
+    height: 300px;
+    justify-content:center;
+
   }
   
-  .tv-lightweight-charts{
-    overflow: hidden;
-    direction: ltr;
-    width: 400px !important;
-    height: 400px !important;
-    user-select: none;
-    -webkit-tap-highlight-color: transparent;
-  }
+  
  
 }
+
+
+@media (min-width: 768px) and (max-width: 991.98px){
+  .chart-container {
+    display:block;
+   margin-left:30px;
+   margin-right: 30px;
+  
+  }
+  .chartContainer{
+    width: 330px;
+    height: 300px;
+    justify-content:center;
+
+  }
+  
+}
+
 </style>
