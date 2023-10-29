@@ -24,25 +24,22 @@
     <div class="company-info col-lg-9 col-sm-12">
     <div class="section">
        <ul>
-          <li><a href="http://localhost:8080/price">Prices</a></li>
-          <li><a href="#">About Us</a></li>
-          <li><a href="#">Blog</a></li>
+          <li><a href="https://price-of-stock.netlify.app">Blog</a></li>
+          
         </ul>
         
       </div>
     <div class="section">
        <ul>
-          <li><a href="http://localhost:8080/price">Prices</a></li>
-          <li><a href="#">About Us</a></li>
-          <li><a href="#">Blog</a></li>
+          <li><a href="https://price-of-stock.netlify.app">About Us</a></li>
+          
         </ul>
         
       </div>
       <div class="section">
        <ul>
-          <li><a href="http://localhost:8080/price">Prices</a></li>
-          <li><a href="#">About Us</a></li>
-          <li><a href="#">Blog</a></li>
+          <li><a href="https://price-of-stock.netlify.app/price">Prices</a></li>
+          
         </ul>
         
       </div>
