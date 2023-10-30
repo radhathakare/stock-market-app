@@ -25,7 +25,8 @@ https://price-of-stock.netlify.app/price
 URL: [(https://stock-data-a9sg.onrender.com/api/stocks) ](https://stock-data-a9sg.onrender.com/api/stocks)   
 
 ### Search
-URL:[(https://stock-data-a9sg.onrender.com/api/search?symbol=symbol&period=1D)https://stock-data-a9sg.onrender.com/api/search?symbol=symbol&period=1D
+URL:(https://stock-data-a9sg.onrender.com/api/search?symbol=symbol&period=1D)
+
  ex https://stock-data-a9sg.onrender.com/api/search?symbol=AAPL&period=1D
 
 
