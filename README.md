@@ -6,7 +6,7 @@ https://price-of-stock.netlify.app/price
 * Express
 * Vue
 
-### Bankend Setup
+### Backend Setup
 1) Backend code is in backend branch.
 2) Mock data is created for companies with high, low,close and volume information injson format.
 3) App.js file runs server.
